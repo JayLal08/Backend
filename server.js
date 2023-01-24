@@ -75,5 +75,5 @@ if (process.env.NODE_ENV != "production") {
     res.redirect("/login");
   }
   
-  app.listen(JKLalwani.com);
+  app.listen(8080);
   
